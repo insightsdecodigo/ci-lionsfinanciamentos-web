@@ -1,4 +1,4 @@
-# Lions Financiamentos Website
+# Lions Financiamentos Website ![CodeQL](https://github.com/insightsdecodigo/ci-lionsfinanciamentos-web/workflows/CodeQL/badge.svg)
 get up and go
 
 💥14💥
